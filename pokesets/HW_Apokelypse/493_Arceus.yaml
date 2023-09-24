@@ -19,3 +19,25 @@ nature: Serious
 ivs: 31
 evs: 252
 hidden: false
+---
+species: Arceus
+ingamename: Alpha
+displayname: Alpha
+setname: Pokelypse2
+tags: [pokelypse]
+item: Wide Lens
+ability: Mold Breaker
+moves:
+    - [Thunder]
+    - [Judgment]
+    - [Spacial Rend]
+    - [Fake Tears]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 50, spA: 252, spD: 252, spe: 0}
+hidden: false
