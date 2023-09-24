@@ -19,3 +19,24 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
 evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 0, spe: 216}
 hidden: false
+---
+species: Darkrai
+ingamename: Z
+displayname: Z
+setname: Halloween2
+tags: [halloween]
+ability: Own Tempo
+moves:
+    - [Dark Pulse]
+    - [Icy Wind]
+    - [Sacred Fire]
+    - [Imprison] 
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: 0
+evs: 0
+hidden: false
