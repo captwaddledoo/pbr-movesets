@@ -32,7 +32,7 @@ moves:
     - [Ember]
     - [Sucker Punch]
     - [Double Team]
-    - [Rest]
+    - [Roost]
 gender: [m]
 happiness: 255
 biddable: True
